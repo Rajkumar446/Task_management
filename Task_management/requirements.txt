@@ -1,0 +1,15 @@
+fastapi
+fastapi-mail
+aiosmtplib
+python-dotenv
+apscheduler
+sqlalchemy
+uvicorn
+mysqlclient
+python-multipart
+passlib[bcrypt]
+pyjwt
+pydantic[email]
+email-validator
+
+
